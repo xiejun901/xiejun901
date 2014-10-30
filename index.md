@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 我的博客
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
  
